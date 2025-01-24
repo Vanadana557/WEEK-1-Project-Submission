@@ -1,0 +1,5 @@
+This study investigates the application of a linear regression model to predict solar power generation, 
+leveraging the established relationship between readily available weather parameters like temperature, cloud cover, and
+solar irradiance as input variables to forecast the output of a photovoltaic system. By analyzing historical data, the model identifies statistically significant correlations, 
+allowing for reasonably accurate predictions of solar power production, 
+which can be valuable for grid management and optimizing energy utilization strategies within a region. 
